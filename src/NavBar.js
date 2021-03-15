@@ -17,10 +17,10 @@ export default function NavBar() {
                     <a href="#skills" id="skills" class="nav-link">Skills</a>
                 </li>
                 <li class="nav-item">
-                    <a href="" class="nav-link">Socials</a>
+                    <a href="socials" class="nav-link">Socials</a>
                 </li>
                 <li class="nav-item">
-                    <a href="" class="nav-link">Resume</a>
+                    <a href="resume" class="nav-link">Resume</a>
                 </li>
             </ul>
         </nav>
