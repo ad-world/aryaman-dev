@@ -3,12 +3,12 @@ import { Container, Row, Col } from 'react-bootstrap';
 
 export default function About() {
     return (
-        <Container fluid id="about" style={{height:"50vh"}}>
+        <Container fluid id="about" style={{height:"30vh"}} className="bg-light">
             <Container >
                 <div className="align-items-center text-center">
                     <h1 className="mt-5 pt-5">About Me</h1>
                 </div>
-                <Row className="justify-content-around align-items-center text-center mt-5 align-middle d-flex"
+                <Row className="justify-content-around align-items-center text-center mt-3 align-middle d-flex"
                 >
                     <Col className="col-md-3">I have project experience in Full-stack Web Development, Software Development, and
                     Machine Learning.</Col>

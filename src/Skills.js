@@ -4,7 +4,7 @@ import Skill from './Skill'
 
 export default function Skills() {
     return (
-        <Container id="skills" fluid style={{ height: "50vh" }} className="mb-5">
+        <Container id="skills" style={{height:"100vh"}} className="align-middle d-flex align-items-center justify-content-center">
             <Container >
                 <div className="align-items-center text-center">
                     <h1 className="mt-5 pt-5">Skills/Tech Stack</h1>
