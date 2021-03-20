@@ -1,5 +1,4 @@
 import './App.css';
-import { Container } from 'react-bootstrap'
 import NavBar from './NavBar'
 import Header from './Header'
 import About from './About'

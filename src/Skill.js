@@ -1,4 +1,4 @@
-import { Tooltip , Popover, OverlayTrigger, Button} from 'react-bootstrap';
+import { Popover, OverlayTrigger, Button} from 'react-bootstrap';
 import React from 'react'
 
 export default function Skill(props) {
@@ -12,7 +12,7 @@ export default function Skill(props) {
     );
 
     const SkillExample = () => (
-        <OverlayTrigger trigger="click" placement="top" overlay={popover}>
+        <OverlayTrigger trigger="hover" placement="top" overlay={popover}>
             <Button variant="light" className="px-4 btn-block"> {props.title} </Button>
         </OverlayTrigger>
     );

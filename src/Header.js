@@ -4,7 +4,7 @@ import TypeWriterEffect from "react-typewriter-effect";
 
 export default function Header() {
     return (
-        <Container style={{ height: "100vh" }}>
+        <Container id="header" style={{ height: "100vh" }}>
             <Row className="row justify-content-center align-items-center text-center">
                 <div className="col-12 d-flex align-items-center align-middle"
                     style={{
