@@ -12,7 +12,7 @@ export default function Skill(props) {
     );
 
     const SkillExample = () => (
-        <OverlayTrigger trigger="hover" placement="top" overlay={popover}>
+        <OverlayTrigger trigger="focus" placement="top" overlay={popover}>
             <Button variant="light" className="px-4 btn-block"> {props.title} </Button>
         </OverlayTrigger>
     );

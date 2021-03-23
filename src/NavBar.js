@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function NavBar() {
     return (
-        <nav class="navbar fixed-top navbar-light bg-light navbar-expand-sm p-1">
+        <nav class="navbar fixed-top navbar-light bg-light navbar-expand-sm p-1 d-none d-sm-flex">
             <div class="container-fluid">
                 <ul class="navbar-nav"><a href="#header" class="navbar-brand">Aryaman Dhingra</a></ul>
             </div>
