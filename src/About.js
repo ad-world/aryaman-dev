@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap';
 
+
 export default function About() {
     return (
         <Container fluid id="about" className="bg-light my-5 pb-5">

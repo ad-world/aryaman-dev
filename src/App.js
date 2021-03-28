@@ -4,6 +4,7 @@ import Header from './Header'
 import About from './About'
 import Skills from './Skills'
 import Projects from './Projects'
+
 function App() {
   return (
     <>
