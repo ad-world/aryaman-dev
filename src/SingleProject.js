@@ -7,6 +7,7 @@ export default function Project(props){
             <Card.Body>
                 <Card.Title>{ props.title }</Card.Title>
                 <Card.Subtitle className="mb-2 text-muted">{ props.tech }</Card.Subtitle>
+                <br></br>
                 <Card.Text>{ props.Text }</Card.Text>
                 <Card.Link href={ props.link }>Link</Card.Link>
             </Card.Body>
