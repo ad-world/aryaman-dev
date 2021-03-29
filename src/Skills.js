@@ -13,12 +13,12 @@ export default function Skills() {
                     <Col className="col-md-2 mt-2">
                         <Skill title="HTML" content="I learnt the basics of HTML through
                         a Khan Academy course early in high school. I learnt more about it
-                        as I used it in different projects" />
+                        as I used it in different projects." />
                     </Col>
                     <Col className="col-md-2 mt-2">
                         <Skill title="CSS" content="I learnt the basics of CSS through a
                         Khan Academy course early in high school. I learn more about it 
-                        as I started to use CSS libraries such as Boostrap"/>
+                        as I started to use CSS libraries such as Boostrap."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="Python" content="Python was my first real experience in the
@@ -29,11 +29,11 @@ export default function Skills() {
                 <Row className="justify-content-center align-items-center text-center mt-5 align-middle d-flex">
                     <Col className="col-lg-2 mt-2">
                         <Skill title="C" content="I'm currently learning C in a university course titled Elementary Algorithm
-                    Design and Data Abstraction."/>
+                    Design and Data Abstraction. Currenlty, we are learning about linked data structures."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="JavaScript" content="I learnt JavaScript in a course by Team Treehouse in 2018. 
-                        I have used it in every project since."/>
+                        I have used it in every developemtn project since."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="Racket" content="I learnt Racket in a university course titled Intro the Functional Programming. The course 
@@ -52,7 +52,7 @@ export default function Skills() {
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="Java" content="I learnt the basics of Java in a high school computer science course. I built basics applications with it 
-                        a calculator with a usable interface - done with NetBeans."/>
+                        such as a calculator with a usable interface - done with NetBeans."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="jQuery" content="I learnt how to use jQuery while building the home of the leopards. I used it to simplify the use of 
@@ -69,19 +69,19 @@ export default function Skills() {
                 </Row>
                 <Row className="justify-content-center align-items-center text-center mt-5 align-middle d-flex">
                     <Col className="col-lg-2 mt-2">
-                        <Skill title="scikit-learn" content="I learnt how to use this library in a machine learning course on educative. I mainly used it spit training and 
+                        <Skill title="scikit-learn" content="I learnt how to use this library in a machine learning course on educative. I mainly used it to split training and 
                         testing data in the premier league predictor."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="Git" content="I learnt how to use Git commands while building the premier league predictor. It is being used to keep track
-                        of this website as well."/>
+                        of this website's versions as well."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="TensorFlow" content="I learnt how to use TensorFlow in a machine learning course on educative. I used it for one of the deep learning models
                         in the premier league predictor project."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
-                        <Skill title="Keras" content="I learnt how to use Keras in a machine learning course on educative"/>
+                        <Skill title="Keras" content="I learnt how to use Keras in a machine learning course on educative."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="XGBoost" content="I learnt how to use XGBoost in a machine learning course on educative. I used it for the gradient boosting model in the 
