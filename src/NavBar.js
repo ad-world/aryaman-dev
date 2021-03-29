@@ -21,7 +21,7 @@ export default function NavBar() {
                     <a href="#socials" className="nav-link disabled">Socials</a>
                 </li>
                 <li class="nav-item">
-                    <a href={Pdf} target="_blank" className="nav-link">Resume</a>
+                    <a href={Pdf} target="_blank" rel="noreferrer" className="nav-link">Resume</a>
                 </li>
             </ul>
         </nav>
