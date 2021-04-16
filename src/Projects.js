@@ -13,7 +13,7 @@ export default function Projects() {
                     <Col className="col-lg-3 col-12 mt-3">
                         <Project title="Premier League Predictor" tech="Python, NumPy, pandas, scikit-learn, TensorFlow, XGBoost" 
                         Text="A machine learning/deep learning model that uses over
-                         20 seasons of premier league data to try and predict the outcome of futurue games.
+                         20 seasons of premier league data to try and predict the outcome of future games.
                          The project currently uses three models - regressions, gradient boosting, and neural networks."
                          link="https://github.com/ad-world/PremierLeaguePredictor"/>
                     </Col>
