@@ -33,7 +33,7 @@ export default function Skills() {
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="JavaScript" content="I learnt JavaScript in a course by Team Treehouse in 2018. 
-                        I have used it in every developemtn project since."/>
+                        I have used it in every development project since."/>
                     </Col>
                     <Col className="col-lg-2 mt-2">
                         <Skill title="Racket" content="I learnt Racket in a university course titled Intro the Functional Programming. The course 
