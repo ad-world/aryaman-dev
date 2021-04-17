@@ -1,6 +1,5 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap'
-import Social from './Social'
 import { ReactComponent as Github } from './svg/github.svg'
 import { ReactComponent as Linkedin } from './svg/linkedin.svg'
 import { ReactComponent as Insta } from './svg/insta.svg'
@@ -14,17 +13,17 @@ export default function Socials() {
                 </div>
                 <Row className="text-center mt-5">
                     <Col className='col col-4'>
-                        <a href="https://github.com/ad-world" target="_blank">
+                        <a href="https://github.com/ad-world" target="_blank" rel="noreferrer">
                             <Github style={{ height: 100, width: 100 }} />
                         </a>
                     </Col>
                     <Col className='col col-4'>
-                        <a href="https://www.linkedin.com/in/ad-world/" target="_blank">
+                        <a href="https://www.linkedin.com/in/ad-world/" target="_blank" rel="noreferrer">
                             <Linkedin style={{ height: 100, width: 100 }} />
                         </a>
                     </Col>
                     <Col className='col col-4'>
-                        <a href="https://www.instagram.com/aryaman.d/" target="_blank">
+                        <a href="https://www.instagram.com/aryaman.d/" target="_blank" rel="noreferrer">
                             <Insta style={{ height: 100, width: 100 }} />
                         </a>
                     </Col>
